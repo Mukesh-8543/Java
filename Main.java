@@ -1,26 +1,14 @@
-public class Main {
-    public static void main(String[] args) {
-        // Output
+public class Main{
+    public static void main(String[] args){
+            System.out.println("Hello Mukesh Kumara Yadav");
+            
+            int num1 = 20;
+            int num2 = 30;
+            int num3 = 10;
 
-        // System.out.println("hellow word with java ");
-        // System.out.print("hellow word with java\nMukesh Kumar Yadav");
-
-        // Star Print kaise kare
-
-        // System.out.println("*");
-        // System.out.println("**");
-        // System.out.println("***");
-        // System.out.println("****");
-
-        // varibal
-
-        int a = 25;
-        int b = 30;
-        int sum = a + b;
+            int sum = num1+num2+num3;
 
         System.out.println(sum);
-        
-        int mul = a * b;
-        System.out.println(mul);
+
     }
 }
