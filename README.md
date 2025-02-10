@@ -1,1 +1,1 @@
-<h2>Java New Project</h2>
+<h2>Java Project</h2>
