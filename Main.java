@@ -5,10 +5,11 @@ public class Main{
             int num1 = 20;
             int num2 = 30;
             int num3 = 10;
-
             int sum = num1+num2+num3;
+            int sum1 = num1*num2*num3;
 
         System.out.println(sum);
+        System.out.println(sum1);
 
     }
 }
