@@ -8,20 +8,9 @@ public class NewTest {
             case 0:
                 System.out.println("Sunday");
                 break;
-            case 1:
-                System.out.println("Monday");
-                break;
-
-            case 2:
-                System.out.println("Tuesday");
-                break;
-
-            case 3:
-                System.out.println("Wednasday");
-                break;
 
             default:
-                System.out.println("Invalid Week Number");
+                System.out.println("Invalid Number");
                 break;
         }
     }
