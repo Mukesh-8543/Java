@@ -1,17 +1,14 @@
 import java.util.Scanner;
 
 public class NewTest {
+    /**
+     * @param args
+     */
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int week = sc.nextInt();
-        switch (week) {
-            case 0:
-                System.out.println("Sunday");
-                break;
-
-            default:
-                System.out.println("Invalid Number");
-                break;
+        String name = sc.nextLine();
+        for(int i =1; i <= 10; i++){
+            System.out.print(name + " ");
         }
     }
 

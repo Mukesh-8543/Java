@@ -60,11 +60,13 @@ public class NewLoops {
 
         // Java me kaise table ki Print kraye
 
-        Scanner sc = new Scanner(System.in);
+       /*  Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         for (int i = 1; i <= 10; i++) {
             System.out.print(i * n + " ");
-        }
+        }*/
+
+   
 
     }
 }
