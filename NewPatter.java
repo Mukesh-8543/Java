@@ -89,7 +89,7 @@ public class NewPatter {
 
         // Question10..
 
-        int n = 14;
+      /*   int n = 5;
         int number  = 1;
         for(int i=1; i<=n; i++){
             for(int j=1; j<=i; j++){
@@ -97,6 +97,48 @@ public class NewPatter {
                 number++; //number = number + 1;
             }
             System.out.println();
-        }
+        }*/
+
+            //Question 11
+       /*  int n =100;
+        for(int i = 1; i<=n; i++){ 
+         System.out.print(i+" ");      
+
+        }*/
+            //Question 12.. 
+        /*   int n =10;
+        for(int i = 1; i<=n; i++){
+            System.out.print(2*i+1+" ");
+        }*/
+
+          //Question 13.. 
+            //Odd Number...
+        /*    int n =10;
+            for(int i = 1; i<=n; i++){
+                System.out.print(i + " "+") Mukesh Kumar yadav ");
+            }*/ 
+
+
+            //Break and continue using loops..
+       /*  for(int i =1; i<=5; i++){
+            System.out.println(i+" Java is Grate..");
+            if(i==2){
+                System.out.println("Ending the loop");
+                break;
+            }
+                }*/
+
+            //Table kaise orint karate hai..
+
+      /*   Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        for(int i =1; i<=10; i++){
+            System.out.print(i*n + " ");
+        }*/
+        
+            Scanner sc = new Scanner(System.in);
+            String name = sc.nextLine();
+            System.out.print(name);
+        
     }
 }
