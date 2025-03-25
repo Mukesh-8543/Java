@@ -51,7 +51,7 @@ public class Bits {
             int newNumber = bitMask | n;
             System.out.println(newNumber);
 
-        }//clear
+        }  //clear
         else{
             int newBitMask = ~(bitMask);
             int newNumber = newBitMask & n ;
